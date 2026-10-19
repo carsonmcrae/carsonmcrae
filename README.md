@@ -8,21 +8,29 @@ I like figuring out what a product should do and staying involved in how it gets
 
 ### [PicPledge](https://picpledge.com)
 
-Private photo sharing for events. I launched PicPledge at my wedding, where **40+ people used it at the same time** out of 100 guests.
+Private photo sharing for events. I launched PicPledge at my wedding, where **40+ people used it at the same time** out of 100 guests. Guests shared **100+ photos live**, capturing moments and angles we would otherwise have missed.
 
 Guests can contribute photos to a shared album, find photos of themselves through optional facial matching, and download the moments they want to keep. The work behind that includes guest access, reliable uploads, consent choices, and what happens to people's data after the event.
 
 React · TypeScript · Cloudflare Workers · Capacitor  
 **Live product · Private source**
 
+[Read the PicPledge case study](https://carsonmcrae.github.io/picpledge/) · [GitHub showcase](https://github.com/carsonmcrae/picpledge-case-study)
+
+[![PicPledge product artwork](https://carsonmcrae.github.io/assets/picpledge-poster.webp)](https://carsonmcrae.github.io/picpledge/)
+
 ### [Recalen](https://recalen.com)
 
 An app for saving thoughts, links, files, and voice notes, then finding them when you need them. Recalen connects capture with organization, search, reminders, and calendar views across web and native mobile.
 
-**20+ people have tested the private beta.** I've built it end to end, including offline capture, assisted organization that preserves users' corrections, and controls for data export and deletion.
+**20+ people are testing the ongoing private beta, with daily use by several testers.** I've built it end to end, including offline capture, assisted organization that preserves users' corrections, and controls for data export and deletion.
 
 Next.js · TypeScript · React Native / Expo · PostgreSQL / Prisma  
 **Private beta · Private source**
+
+[Read the Recalen case study](https://carsonmcrae.github.io/recalen/) · [GitHub showcase](https://github.com/carsonmcrae/recalen-case-study)
+
+[![Illustrated Recalen capture-to-recall workflow](https://carsonmcrae.github.io/assets/recalen-flow.svg)](https://carsonmcrae.github.io/recalen/)
 
 ### [Local TTS](https://github.com/carsonmcrae/local-tts-web-ui)
 
@@ -37,4 +45,4 @@ At 13, I worked with developers to create a Minecraft server that caught the att
 
 I'm based in Nashville and graduated from Vanderbilt. Outside of work, I'm into fantasy football, video games, golf, and pickleball. I also have two dogs, Margot and Quinn.
 
-[Find me on LinkedIn](https://www.linkedin.com/in/carsonmcrae/)
+[Explore my portfolio](https://carsonmcrae.github.io/) · [Find me on LinkedIn](https://www.linkedin.com/in/carsonmcrae/)
