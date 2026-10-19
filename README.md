@@ -6,6 +6,17 @@ I like figuring out what a product should do and staying involved in how it gets
 
 [Recalen roadmap](https://github.com/users/carsonmcrae/projects/1) · [How I manage delivery](https://carsonmcrae.github.io/delivery/) · [A product decision I changed](https://carsonmcrae.github.io/picpledge/#iteration)
 
+## Engineering at a glance
+
+| Product | App source lines | Test/support lines | Saved coverage report |
+| --- | ---: | ---: | --- |
+| [Recalen](https://carsonmcrae.github.io/recalen/#engineering) | ~391k | ~528k | 100% lines and functions; 99.99% branches<br>Aug 21, 2026 |
+| [PicPledge](https://carsonmcrae.github.io/picpledge/#engineering) | ~132k | ~174k | 100% statements, branches, functions, and lines<br>Oct 19, 2026 |
+
+Source sizes measured October 19, 2026. Physical lines include comments and blanks; dependencies, generated output, assets, and lockfiles are excluded. Coverage describes the measured executable source on each report's date.
+
+[Scope and measurement details](https://carsonmcrae.github.io/recalen/#engineering)
+
 ## Products I've built
 
 ### [PicPledge](https://picpledge.com)
