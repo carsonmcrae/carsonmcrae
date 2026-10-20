@@ -50,7 +50,7 @@ Next.js · TypeScript · React Native / Expo · PostgreSQL / Prisma
 Natural text-to-speech that runs on your own computer. It reads PDFs, EPUBs, Word documents, and text aloud with read-along highlighting, with optional consent-based voice cloning. Formerly Local TTS.
 
 React · TypeScript · Python · FastAPI  
-**Open source** · [Website and demo](https://carsonmcrae.github.io/ttsnative/) · [Source](https://github.com/carsonmcrae/ttsnative)
+**Open source** · [Website and demo](https://ttsnative.com) · [Source](https://github.com/carsonmcrae/ttsnative)
 
 ## A little background
 
