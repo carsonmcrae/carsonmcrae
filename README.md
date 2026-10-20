@@ -45,12 +45,12 @@ Next.js · TypeScript · React Native / Expo · PostgreSQL / Prisma
 
 [![Recalen walkthrough captured from the local beta with fictional demo entries](https://carsonmcrae.github.io/assets/walkthrough/recalen-poster.webp)](https://carsonmcrae.github.io/recalen/#walkthrough)
 
-### [Local TTS](https://github.com/carsonmcrae/local-tts-web-ui)
+### [TTSNative](https://github.com/carsonmcrae/ttsnative)
 
-A document reader that turns PDFs, EPUBs, Word documents, and text into speech with read-along highlighting. It runs on your own computer, with optional consent-based voice cloning.
+Natural text-to-speech that runs on your own computer. It reads PDFs, EPUBs, Word documents, and text aloud with read-along highlighting, with optional consent-based voice cloning. Formerly Local TTS.
 
 React · TypeScript · Python · FastAPI  
-**Open source** · [Overview and demo](https://carsonmcrae.github.io/local-tts-web-ui/)
+**Open source** · [Website and demo](https://carsonmcrae.github.io/ttsnative/) · [Source](https://github.com/carsonmcrae/ttsnative)
 
 ## A little background
 
