@@ -61,7 +61,7 @@ React · TypeScript · Python · FastAPI · ONNX Runtime
 
 ## A little background
 
-At 13, I worked with developers to create a Minecraft server that caught the attention of the creators of Mineplex. I built my first PC in 2015, and I've kept building since.
+I've been interested in building things since I was young. At 13, I worked with developers to create a Minecraft server, and in 2015, I built my first PC. What started as a hobby eventually grew into a career in technology and a passion for building my own products.
 
 I'm based in Nashville and graduated from Vanderbilt. Outside of work, I'm into fantasy football, video games, golf, and pickleball. I also have two dogs, Margot and Quinn.
 
