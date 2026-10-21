@@ -14,10 +14,6 @@ I like figuring out what a product should do and staying involved in how it gets
 | [PicPledge](https://carsonmcrae.github.io/picpledge/#engineering) | ~132k | ~174k | 100% statements, branches, functions, and lines<br>Oct 19, 2026 |
 | [TTSNative](https://github.com/carsonmcrae/ttsnative/blob/main/docs/guides/testing.md#what-the-coverage-numbers-mean) | ~20k | ~12k | 100% statements and branches, web app and server<br>Oct 20, 2026 |
 
-Source sizes measured October 19, 2026 (TTSNative: October 20, 2026). Physical lines include comments and blanks; dependencies, generated output, assets, and lockfiles are excluded. Coverage describes the measured executable source on each report's date.
-
-[Scope and measurement details](https://carsonmcrae.github.io/recalen/#engineering)
-
 ## Products I've built
 
 ### <img src="assets/icons/picpledge.png" width="36" height="36" alt="" align="center"> [PicPledge](https://picpledge.com)
