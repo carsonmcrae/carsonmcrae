@@ -31,7 +31,7 @@ React · TypeScript · Cloudflare Workers · Capacitor
 
 [Read the PicPledge case study](https://carsonmcrae.github.io/picpledge/) · [Product walkthrough](https://carsonmcrae.github.io/picpledge/#walkthrough) · [GitHub showcase](https://github.com/carsonmcrae/picpledge-case-study)
 
-[![PicPledge product artwork](https://carsonmcrae.github.io/assets/picpledge-poster.webp)](https://carsonmcrae.github.io/picpledge/)
+[![PicPledge product artwork](https://carsonmcrae.github.io/assets/picpledge-poster.webp?v=fccc6423f04b)](https://carsonmcrae.github.io/picpledge/)
 
 ### <img src="assets/icons/recalen.png" width="36" height="36" alt="" align="center"> [Recalen](https://recalen.com)
 
@@ -44,7 +44,7 @@ Next.js · TypeScript · React Native / Expo · PostgreSQL / Prisma
 
 [Read the Recalen case study](https://carsonmcrae.github.io/recalen/) · [Product walkthrough](https://carsonmcrae.github.io/recalen/#walkthrough) · [GitHub showcase](https://github.com/carsonmcrae/recalen-case-study)
 
-[![Recalen walkthrough captured from the local beta with fictional demo entries](https://carsonmcrae.github.io/assets/walkthrough/recalen-poster.webp)](https://carsonmcrae.github.io/recalen/#walkthrough)
+[![Recalen product artwork](https://carsonmcrae.github.io/assets/recalen-poster.webp)](https://carsonmcrae.github.io/recalen/)
 
 ### <img src="assets/icons/ttsnative.png" width="36" height="36" alt="" align="center"> [TTSNative](https://ttsnative.com)
 
