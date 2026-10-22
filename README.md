@@ -16,6 +16,20 @@ I like figuring out what a product should do and staying involved in how it gets
 
 ## Products I've built
 
+### [Southern Surface Company](https://www.southernsurfacecompany.com/)
+
+Software supporting an operating flooring, painting, and cleaning business: a public website for service discovery and quote requests, plus tools for finding potential commercial customers, reviewing opportunities, and recording follow-up.
+
+**Owner-reported outcome (October 22, 2026): 150 new leads generated and 5 jobs secured with the system last month.** These figures have not been independently audited; they are not a measured lead-to-job conversion rate. Discovery feeds a human review queue, and people handle customer conversations and service delivery.
+
+Next.js · TypeScript · React · PostgreSQL / Prisma<br>
+**Operating business · Private source**
+
+[Read the SSC case study](https://carsonmcrae.github.io/southern-surface/) · [Interactive prototype](https://carsonmcrae.github.io/southern-surface/demo/)<br>
+GitHub showcase prepared for review; repository publication pending approval.
+
+[![Southern Surface Company website and lead operations overview](https://carsonmcrae.github.io/assets/southern-surface/overview.svg)](https://carsonmcrae.github.io/southern-surface/)
+
 ### <img src="assets/icons/picpledge.png" width="36" height="36" alt="" align="center"> [PicPledge](https://picpledge.com)
 
 Private photo sharing for events. I launched PicPledge at my wedding, where **40+ people used it at the same time** out of 100 guests. Guests shared **100+ photos live**, capturing moments and angles we would otherwise have missed.
