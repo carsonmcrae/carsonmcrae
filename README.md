@@ -26,7 +26,7 @@ Next.js · TypeScript · React · PostgreSQL / Prisma<br>
 **Operating business · Private source**
 
 [Read the SSC case study](https://carsonmcrae.github.io/southern-surface/) · [Interactive prototype](https://carsonmcrae.github.io/southern-surface/demo/)<br>
-GitHub showcase prepared for review; repository publication pending approval.
+[GitHub showcase](https://github.com/carsonmcrae/southern-surface-case-study)
 
 [![Southern Surface Company website and lead operations overview](https://carsonmcrae.github.io/assets/southern-surface/overview.svg)](https://carsonmcrae.github.io/southern-surface/)
 
