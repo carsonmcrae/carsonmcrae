@@ -12,7 +12,7 @@ I like figuring out what a product should do and staying involved in how it gets
 | --- | ---: | ---: | --- |
 | [Recalen](https://carsonmcrae.github.io/recalen/#engineering) | ~391k | ~528k | 100% lines and functions; 99.99% branches<br>Aug 21, 2026 |
 | [PicPledge](https://carsonmcrae.github.io/picpledge/#engineering) | ~132k | ~174k | 100% statements, branches, functions, and lines<br>Oct 19, 2026 |
-| [TTSNative](https://github.com/carsonmcrae/ttsnative/blob/main/docs/guides/testing.md#what-the-coverage-numbers-mean) | ~20k | ~12k | 100% statements and branches, web app and server<br>Oct 20, 2026 |
+| [TTSNative](https://carsonmcrae.github.io/ttsnative-case-study/#engineering) | ~53k | ~36k | 100% statements and branches, web app and server<br>Nov 2, 2026 |
 
 ## Products I've built
 
@@ -44,14 +44,14 @@ Next.js · TypeScript · React Native / Expo · PostgreSQL / Prisma
 
 ### <img src="assets/icons/ttsnative.png" width="36" height="36" alt="" align="center"> [TTSNative](https://ttsnative.com)
 
-Natural text-to-speech. Private, powerful, and local. TTSNative reads PDFs, EPUBs, Word documents, and text aloud with read-along highlighting, and offers optional consent-based voice cloning. Documents, voices, and audio stay on your own computer.
+Natural text-to-speech. Private, powerful, and local. **TTSNative is my first product with its own shipped desktop app:** a Windows 11 app you install like any other, with nothing else to set up. It reads PDFs, EPUBs, Word documents, and text aloud with read-along highlighting, and offers optional consent-based voice cloning. Documents, voices, and audio stay on your own computer.
 
-I designed and built it end to end, from the reader and voice studio to model integrity checks, sandboxed document parsing, the brand, and the website.
+I designed and built it end to end, from the reader and voice studio to the Windows app and its signed updates, model integrity checks, sandboxed document parsing, the brand, and the website.
 
-React · TypeScript · Python · FastAPI · ONNX Runtime  
-**Open source (MIT) · Public release**
+React · TypeScript · Python · FastAPI · Tauri · Rust · ONNX Runtime  
+**Open source (MIT) · Shipped Windows 11 app**
 
-[Website and demo](https://ttsnative.com) · [Overview video](https://ttsnative.com/#overview) · [Source](https://github.com/carsonmcrae/ttsnative) · [Brand kit](https://github.com/carsonmcrae/ttsnative/tree/main/brand)
+[Read the TTSNative case study](https://carsonmcrae.github.io/ttsnative-case-study/) · [Download for Windows](https://ttsnative.com/download/) · [Website and demo](https://ttsnative.com) · [Overview video](https://ttsnative.com/#overview) · [Source](https://github.com/carsonmcrae/ttsnative) · [Brand kit](https://github.com/carsonmcrae/ttsnative/tree/main/brand)
 
 [![TTSNative: any document, read aloud](https://carsonmcrae.github.io/assets/ttsnative/ttsnative-poster.webp)](https://ttsnative.com)
 
